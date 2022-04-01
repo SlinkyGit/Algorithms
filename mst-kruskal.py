@@ -1,6 +1,4 @@
 # Nikhil Solanki
-# CS 260
-# HW 08 Part 2 ~ My lab group (Eric, Aidan and Manish) and I worked on this together
 
 #THIS FILE IS FOR KRUSKAL'S ALGORITHM ONLY ; mst-prim.py is for Prim's
 
