@@ -1,6 +1,4 @@
 # Nikhil Solanki
-# CS 260 ~ HW 07
-# My lab-mates (Eric and Aidan) and I worked on this assignment together. We helped each other with some of the functions.
 import heapq
 import math
 
