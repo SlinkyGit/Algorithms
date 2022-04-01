@@ -1,6 +1,4 @@
 # Nikhil Solanki
-# CS 260
-# HW 09
 # Master Theorem
 
 import math
