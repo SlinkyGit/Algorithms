@@ -15,7 +15,7 @@ def var():
     b = int(input("Enter b value: "))
     x = int(input("Enter x value: "))
     y = int(input("Enter y value: "))
-    c = math.log(a, b) # Calculate the c-values
+    c = math.log(a, b) # Calculate the c values
 var()
 
 def master():
